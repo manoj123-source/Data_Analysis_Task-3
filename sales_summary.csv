@@ -1,0 +1,4 @@
+category,region,order_count,total_sales,total_profit,avg_sales_per_order,avg_discount
+Technology,East,38,145000.5,34000.2,3815.8,1.8
+Furniture,West,42,98000.75,12500.1,2333.35,2.4
+Office Supplies,Central,55,76000.0,8900.0,1381.82,1.4
